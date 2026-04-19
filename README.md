@@ -34,15 +34,16 @@
 
 ## 🚀 Setup and Running Instructions
 
-### 1. Clone the repository
+
 ```bash
+### 1. Clone the repository
+
 git clone https://github.com/ChanAug1st/Level-1--Joke-generator.git
 cd Level-1--Joke-generator
 
 ---
 
 ### **2. Backend Setup**
-```bash
 cd backend
 
 python -m venv venv
