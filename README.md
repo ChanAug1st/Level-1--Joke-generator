@@ -41,7 +41,8 @@ cd Level-1--Joke-generator
 
 ---
 
-### **2.Backend Setup**
+### **2. Backend Setup**
+```bash
 cd backend
 
 python -m venv venv
@@ -50,7 +51,7 @@ python -m venv venv
 venv\Scripts\activate
 
 # Mac/Linux
-# source venv/bin/activate
+source venv/bin/activate
 
 pip install -r requirements.txt
 
@@ -60,6 +61,7 @@ python main.py
 
 
 ### **3. Frontend Setup**
+```bash
 cd frontend
 
 npm install
