@@ -41,8 +41,6 @@
 git clone https://github.com/ChanAug1st/Level-1--Joke-generator.git
 cd Level-1--Joke-generator
 
----
-
 ### **2. Backend Setup**
 cd backend
 
